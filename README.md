@@ -3,7 +3,7 @@
 ## Jalankan aplikasi
 
 ```bash
-git clone --depth 1 https://github.com/brocoders/nestjs-boilerplate.git my-app
+git clone https://github.com/kangyasin/yasin-boilerplate-api my-app
 cd my-app/
 cp env-example .env
 docker-compose up -d
